@@ -5,6 +5,9 @@ Presupuestos del estado boliviano
 * Tipo Reporte: Detalle Institucional > Presupuesto institucional por categoria programatica
 * Dump: [Reportes en PDF](https://drive.google.com/drive/folders/1JOL-Rh20rYxtqp79tYARwulLGAFbWZhh?usp=sharing)
 
+Correcciones:
+* Totales de programas difieren de la suma de los items que los componen (en los dumps del Sigma), para corregir esto se agrego un identificador de proyecto especial (-1) que agrega la diferencia.
+
 TODO:
 * Agregar archivos con metadatos
 * Procesar presupuestos de otras entidades (ministerios; empresas publicas; ...)
