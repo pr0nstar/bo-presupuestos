@@ -25,5 +25,4 @@ Correcciones:
 TODO:
 * Parchar datos faltantes de 2013
 * Agregar archivos con metadatos
-* Procesar presupuestos de otras entidades (ministerios; empresas publicas; ...)
-* Procesar presupuestos de anhos anteriores (el dump de sigma va desde 2004)
+* Procesar presupuestos de anhos anteriores.
