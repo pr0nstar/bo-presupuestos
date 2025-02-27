@@ -25,4 +25,3 @@ Correcciones:
 TODO:
 * Parchar datos faltantes de 2013
 * Agregar archivos con metadatos
-* Procesar presupuestos de anhos anteriores.
