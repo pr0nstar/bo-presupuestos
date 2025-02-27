@@ -23,5 +23,4 @@ Correcciones:
 * Totales de programas difieren de la suma de los items que los componen, para corregir esto agregue dos identificadores de proyectos especiales que agregan la diferencia, `-1` para desconocido general y `-1000` para desconocido en proyectos de inversion.
 
 TODO:
-* Parchar datos faltantes de 2013
 * Agregar archivos con metadatos
