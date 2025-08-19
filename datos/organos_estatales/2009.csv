@@ -566,5 +566,28 @@ fecha,nivel_institucional,entidad_id,entidad_nombre,programa,proyecto,actividad,
 2009,OE,99,Tesoro General de la Nación,98,0,7,GASTOS POR TRANSFERENCIAS,ATENCION PENSIONES VITALICIAS-NOTABLES,0,0,0,0,0,0,172588706,0,0,172588706
 2009,OE,99,Tesoro General de la Nación,98,0,8,GASTOS POR TRANSFERENCIAS,POR SUBSIDIOS A YPFB,0,0,0,0,0,0,3643814686,0,0,3643814686
 2009,OE,99,Tesoro General de la Nación,98,0,9,GASTOS POR TRANSFERENCIAS,TRANSFERENCIAS POR PATENTES PETROLERAS A MUNICIPIOS,0,0,0,0,0,0,0,0,18000000,18000000
-2009,OE,99,Tesoro General de la Nación,99,0,1,SERVICIO DE LA DEUDA,GASTOS DEVENGADOS GESTION 2008,0,0,0,0,0,1579206526,0,0,0,1579206526
-2009,OE,99,Tesoro General de la Nación,99,0,2,SERVICIO DE LA DEUDA,SERVICIO DE LA DEUDA PUBLICA,0,33000000,0,0,0,6818848920,56950948,0,228210907,7137010775
+2009,OE,99,Tesoro General de la Nación,99,0,2,SERVICIO DE LA DEUDA,SERVICIO DE LA DEUDA PUBLICA,0,33000000,0,0,0,0,56950948,0,228210907,318161855
+2009,OE,99,Tesoro General de la Nación,99,1,651,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por,,,,,,230178830,,,,230178830
+2009,OE,99,Tesoro General de la Nación,99,1,652,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Deveng.No Pagados por,,,,,,131559606,,,,131559606
+2009,OE,99,Tesoro General de la Nación,99,1,653,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por,,,,,,715134472,,,,715134472
+2009,OE,99,Tesoro General de la Nación,99,1,654,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por,,,,,,500185611,,,,500185611
+2009,OE,99,Tesoro General de la Nación,99,1,655,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por,,,,,,525769353,,,,525769353
+2009,OE,99,Tesoro General de la Nación,99,1,656,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por,,,,,,190263706,,,,190263706
+2009,OE,99,Tesoro General de la Nación,99,1,658,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por,,,,,,1557736,,,,1557736
+2009,OE,99,Tesoro General de la Nación,99,1,659,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Otros Gastos Devengados No Pagados,,,,,,2148007,,,,2148007
+2009,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,50000000,,,,50000000
+2009,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,10098724,,,,10098724
+2009,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,34575802,,,,34575802
+2009,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,12272734,,,,12272734
+2009,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,21524215,,,,21524215
+2009,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a,,,,,,254258027,,,,254258027
+2009,OE,99,Tesoro General de la Nación,99,2,613,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Comisiones y Otros Gastos de la Deuda,,,,,,525023,,,,525023
+2009,OE,99,Tesoro General de la Nación,99,2,616,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,31250559,,,,31250559
+2009,OE,99,Tesoro General de la Nación,99,2,616,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,1549982264,,,,1549982264
+2009,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a,,,,,,7509466,,,,7509466
+2009,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a,,,,,,33786908,,,,33786908
+2009,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a,,,,,,157927,,,,157927
+2009,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a,,,,,,1266130290,,,,1266130290
+2009,OE,99,Tesoro General de la Nación,99,2,626,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,1935332717,,,,1935332717
+2009,OE,99,Tesoro General de la Nación,99,2,627,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Externa a,,,,,,850392731,,,,850392731
+2009,OE,99,Tesoro General de la Nación,99,2,628,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Comisiones y Otros Gastos de la Deuda,,,,,,43460738,,,,43460738

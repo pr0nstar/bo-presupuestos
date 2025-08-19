@@ -367,4 +367,37 @@ fecha,nivel_institucional,entidad_id,entidad_nombre,programa,proyecto,actividad,
 2006,OE,99,Tesoro General de la Nación,98,0,4,GASTOS POR TRANSFERENCIAS,TRANSFERENCIAS A PREFECTURAS,0,0,0,0,0,0,5862547937,0,0,5862547937
 2006,OE,99,Tesoro General de la Nación,98,0,5,GASTOS POR TRANSFERENCIAS,"TRANSFERENCIAS A PUEBLOS INDIGENAS, ORIGINARIOS Y CAMPESINOS",0,0,0,0,147240260,0,36810065,0,0,184050325
 2006,OE,99,Tesoro General de la Nación,98,0,6,GASTOS POR TRANSFERENCIAS,DESCUENTO SERVICIOS A ANCIANOS LEY 1886,0,0,0,0,0,0,12000000,0,0,12000000
-2006,OE,99,Tesoro General de la Nación,99,-1,-1,SERVICIO DE LA DEUDA,NO DECLARADO,0,0,0,0,0,8998140852,0,0,0,8998140852
+2006,OE,99,Tesoro General de la Nación,99,1,651,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados,,,,,,171584429,,,,171584429
+2006,OE,99,Tesoro General de la Nación,99,1,652,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Deveng.No Pagados por S,,,,,,68798607,,,,68798607
+2006,OE,99,Tesoro General de la Nación,99,1,653,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados,,,,,,535538657,,,,535538657
+2006,OE,99,Tesoro General de la Nación,99,1,654,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados,,,,,,367368607,,,,367368607
+2006,OE,99,Tesoro General de la Nación,99,1,659,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Otros Gastos Devengados No Pag,,,,,,45569,,,,45569
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,AInmortización de la Deuda Pública,,,,,,50000000,,,,50000000
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,97440000,,,,97440000
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,4266640,,,,4266640
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,2207286,,,,2207286
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,735997,,,,735997
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,10385804,,,,10385804
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,1716576,,,,1716576
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,14138960,,,,14138960
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,740000000,,,,740000000
+2006,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,819222194,,,,819222194
+2006,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,IInntteerreses de la Deuda Pública Inte,,,,,,745416,,,,745416
+2006,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Inte,,,,,,6918,,,,6918
+2006,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Inte,,,,,,552705,,,,552705
+2006,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Inte,,,,,,113013162,,,,113013162
+2006,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Inte,,,,,,41958175,,,,41958175
+2006,OE,99,Tesoro General de la Nación,99,2,613,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,DCoeumisiones y Otros Gastos de la D,,,,,,1148237,,,,1148237
+2006,OE,99,Tesoro General de la Nación,99,2,616,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,IAnmortización de la Deuda Pública,,,,,,16000875,,,,16000875
+2006,OE,99,Tesoro General de la Nación,99,2,616,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,12932168,,,,12932168
+2006,OE,99,Tesoro General de la Nación,99,2,616,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,42318725,,,,42318725
+2006,OE,99,Tesoro General de la Nación,99,2,616,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,1243603090,,,,1243603090
+2006,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,IInntteerreses de la Deuda Pública Inte,,,,,,2154074,,,,2154074
+2006,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Inte,,,,,,6634441,,,,6634441
+2006,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Inte,,,,,,90832454,,,,90832454
+2006,OE,99,Tesoro General de la Nación,99,2,617,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Inte,,,,,,907732807,,,,907732807
+2006,OE,99,Tesoro General de la Nación,99,2,621,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,406000000,,,,406000000
+2006,OE,99,Tesoro General de la Nación,99,2,622,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Ext,,,,,,1624000,,,,1624000
+2006,OE,99,Tesoro General de la Nación,99,2,626,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública,,,,,,2063478315,,,,2063478315
+2006,OE,99,Tesoro General de la Nación,99,2,627,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Ext,,,,,,966154414,,,,966154414
+2006,OE,99,Tesoro General de la Nación,99,2,628,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Comisiones y Otros Gastos de la D,,,,,,197801550,,,,197801550
