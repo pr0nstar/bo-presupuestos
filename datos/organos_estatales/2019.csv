@@ -1324,16 +1324,16 @@ fecha,nivel_institucional,entidad_id,entidad_nombre,programa,proyecto,actividad,
 2019,OE,99,Tesoro General de la Nación,98,0,24,TRANSFERENCIAS Y SUBVENCIONES,AL PAGO ÚNICO - PENSIONES,0,0,0,0,0,0,110306,0,0,110306
 2019,OE,99,Tesoro General de la Nación,98,0,25,TRANSFERENCIAS Y SUBVENCIONES,TRANSFERENCIAS A ORGANISMOS INTERNACIONALES,0,0,0,0,0,0,189208922,0,0,189208922
 2019,OE,99,Tesoro General de la Nación,99,1,651,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios Personales,,,,,,678805000,,,,678805000
-2019,OE,99,Tesoro General de la Nación,99,1,65210,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios No Personales,,,,,,268037000,,,,268037000
-2019,OE,99,Tesoro General de la Nación,99,1,65220,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Materiales y Suministros,,,,,,211346621,,,,211346621
-2019,OE,99,Tesoro General de la Nación,99,1,65230,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Reales,,,,,,166106600,,,,166106600
-2019,OE,99,Tesoro General de la Nación,99,1,65240,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Financieros,,,,,,19548000,,,,19548000
 2019,OE,99,Tesoro General de la Nación,99,1,653,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Transferencias,,,,,,2635490805,,,,2635490805
 2019,OE,99,Tesoro General de la Nación,99,1,654,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Retenciones,,,,,,567591784,,,,567591784
 2019,OE,99,Tesoro General de la Nación,99,1,655,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Intereses Deuda Pública,,,,,,359175911,,,,359175911
 2019,OE,99,Tesoro General de la Nación,99,1,656,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Intereses Deuda Pública,,,,,,580928644,,,,580928644
 2019,OE,99,Tesoro General de la Nación,99,1,658,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Comisiones Deuda Pública,,,,,,55167727,,,,55167727
 2019,OE,99,Tesoro General de la Nación,99,1,659,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Otros Gastos Devengados No Pagados,,,,,,147323420,,,,147323420
+2019,OE,99,Tesoro General de la Nación,99,1,65210,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios No Personales,,,,,,268037000,,,,268037000
+2019,OE,99,Tesoro General de la Nación,99,1,65220,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Materiales y Suministros,,,,,,211346621,,,,211346621
+2019,OE,99,Tesoro General de la Nación,99,1,65230,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Reales,,,,,,166106600,,,,166106600
+2019,OE,99,Tesoro General de la Nación,99,1,65240,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Financieros,,,,,,19548000,,,,19548000
 2019,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública Interna a Corto Plazo,,,,,,10616000,,,,10616000
 2019,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a Corto Plazo,,,,,,490667,,,,490667
 2019,OE,99,Tesoro General de la Nación,99,2,613,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Comisiones y Otros Gastos de la Deuda Pública Interna a Corto,,,,,,1000000,,,,1000000

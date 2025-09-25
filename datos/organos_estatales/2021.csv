@@ -1145,15 +1145,15 @@ fecha,nivel_institucional,entidad_id,entidad_nombre,programa,proyecto,actividad,
 2021,OE,99,Tesoro General de la Nación,98,0,25,TRANSFERENCIAS Y SUBVENCIONES,TRANSFERENCIAS A ORGANISMOS INTERNACIONALES,0,0,0,0,0,0,212581822,0,0,212581822
 2021,OE,99,Tesoro General de la Nación,99,0,2,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,SERVICIO DE LA DEUDA,0,0,0,0,1444510200,0,0,0,0,1444510200
 2021,OE,99,Tesoro General de la Nación,99,1,651,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios Personales,,,,,,1000965000,,,,1000965000
-2021,OE,99,Tesoro General de la Nación,99,1,65210,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios No Personales,,,,,,113740000,,,,113740000
-2021,OE,99,Tesoro General de la Nación,99,1,65220,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Materiales y Suministros,,,,,,46350000,,,,46350000
-2021,OE,99,Tesoro General de la Nación,99,1,65230,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Reales,,,,,,61640000,,,,61640000
 2021,OE,99,Tesoro General de la Nación,99,1,653,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Transferencias,,,,,,2130215000,,,,2130215000
 2021,OE,99,Tesoro General de la Nación,99,1,654,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Retenciones,,,,,,1020305000,,,,1020305000
 2021,OE,99,Tesoro General de la Nación,99,1,655,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Intereses Deuda Pública,,,,,,351496346,,,,351496346
 2021,OE,99,Tesoro General de la Nación,99,1,656,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Intereses Deuda Pública,,,,,,916721291,,,,916721291
 2021,OE,99,Tesoro General de la Nación,99,1,658,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Comisiones Deuda Pública,,,,,,14697862,,,,14697862
 2021,OE,99,Tesoro General de la Nación,99,1,659,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Otros Gastos Devengados No Pagados,,,,,,1090000,,,,1090000
+2021,OE,99,Tesoro General de la Nación,99,1,65210,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios No Personales,,,,,,113740000,,,,113740000
+2021,OE,99,Tesoro General de la Nación,99,1,65220,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Materiales y Suministros,,,,,,46350000,,,,46350000
+2021,OE,99,Tesoro General de la Nación,99,1,65230,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Reales,,,,,,61640000,,,,61640000
 2021,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública Interna a Corto Plazo,,,,,,15898000000,,,,15898000000
 2021,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública Interna a Corto Plazo,,,,,,5000473000,,,,5000473000
 2021,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a Corto Plazo,,,,,,109935400,,,,109935400

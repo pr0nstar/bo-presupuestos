@@ -1232,15 +1232,15 @@ fecha,nivel_institucional,entidad_id,entidad_nombre,programa,proyecto,actividad,
 2022,OE,99,Tesoro General de la Nación,98,0,24,TRANSFERENCIAS Y SUBVENCIONES,AL PAGO ÚNICO - PENSIONES,0,0,0,0,0,0,12683,0,0,12683
 2022,OE,99,Tesoro General de la Nación,98,0,25,TRANSFERENCIAS Y SUBVENCIONES,TRANSFERENCIAS A ORGANISMOS INTERNACIONALES,0,0,0,0,0,0,229651772,0,0,229651772
 2022,OE,99,Tesoro General de la Nación,99,1,651,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios Personales,,,,,,1550000000,,,,1550000000
-2022,OE,99,Tesoro General de la Nación,99,1,65210,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios No Personales,,,,,,120000000,,,,120000000
-2022,OE,99,Tesoro General de la Nación,99,1,65220,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Materiales y Suministros,,,,,,50000000,,,,50000000
-2022,OE,99,Tesoro General de la Nación,99,1,65230,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Reales,,,,,,45000000,,,,45000000
 2022,OE,99,Tesoro General de la Nación,99,1,653,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Transferencias,,,,,,1530000000,,,,1530000000
 2022,OE,99,Tesoro General de la Nación,99,1,654,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Retenciones,,,,,,1535000000,,,,1535000000
 2022,OE,99,Tesoro General de la Nación,99,1,655,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Intereses Deuda Pública,,,,,,365294409,,,,365294409
 2022,OE,99,Tesoro General de la Nación,99,1,656,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Intereses Deuda Pública,,,,,,674862473,,,,674862473
 2022,OE,99,Tesoro General de la Nación,99,1,658,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Comisiones Deuda Pública,,,,,,6679259,,,,6679259
 2022,OE,99,Tesoro General de la Nación,99,1,659,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Otros Gastos Devengados No Pagados,,,,,,1000000,,,,1000000
+2022,OE,99,Tesoro General de la Nación,99,1,65210,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Servicios No Personales,,,,,,120000000,,,,120000000
+2022,OE,99,Tesoro General de la Nación,99,1,65220,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Materiales y Suministros,,,,,,50000000,,,,50000000
+2022,OE,99,Tesoro General de la Nación,99,1,65230,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Gastos Devengados No Pagados por Activos Reales,,,,,,45000000,,,,45000000
 2022,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública Interna a Corto Plazo,,,,,,8000000000,,,,8000000000
 2022,OE,99,Tesoro General de la Nación,99,2,611,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Amortización de la Deuda Pública Interna a Corto Plazo,,,,,,370000,,,,370000
 2022,OE,99,Tesoro General de la Nación,99,2,612,GASTOS DEVENGADOS Y SERVICIO DE LA DEUDA,Intereses de la Deuda Pública Interna a Corto Plazo,,,,,,81411500,,,,81411500
